@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "https://unsplash.com/photos/xrVDYZRGdw4/download?force=true",
+    "author": "Dave Hoefler",
+    "author_img": "https://unsplash.com/@davehoefler",
+    "posted_date": "2024-11-24",
+    "reading_time": 5
+  },
+  {
+    "id": 2,
+    "cover": "https://unsplash.com/photos/Y8riNmDqA4Q/download?force=true",
+    "author": "Sheng L",
+    "author_img": "https://unsplash.com/@shenglaifilm",
+    "posted_date": "2024-11-23",
+    "reading_time": 3
+  },
+  {
+    "id": 3,
+    "cover": "https://unsplash.com/photos/kOwV6tZOyMI/download?force=true",
+    "author": "Johannes Plenio",
+    "author_img": "https://unsplash.com/@jplenio",
+    "posted_date": "2024-11-22",
+    "reading_time": 6
+  },
+  {
+    "id": 4,
+    "cover": "https://unsplash.com/photos/hC1he1DwoRw/download?force=true",
+    "author": "Claudio Schwarz",
+    "author_img": "https://unsplash.com/@purzlbaum",
+    "posted_date": "2024-11-21",
+    "reading_time": 4
+  },
+  {
+    "id": 5,
+    "cover": "https://unsplash.com/photos/mOHGdX7vD7s/download?force=true",
+    "author": "Marko Blažević",
+    "author_img": "https://unsplash.com/@markoblazevic",
+    "posted_date": "2024-11-20",
+    "reading_time": 7
+  }
+]
